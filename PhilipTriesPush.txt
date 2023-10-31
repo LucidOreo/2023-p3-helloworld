@@ -1,0 +1,50 @@
+// Your First Program
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); 
+
+        // please add a Hello to you like the following
+
+        //	a
+	System.out.println("Hello from Aaron");
+	System.out.println("Hello from Adrian");
+        //	b
+    System.out.println("Hello from Bersu");
+    System.out.println("Hello from Ryoma");
+    System.out.println("Hello from chuanting");
+        //	c
+    System.out.println("Hello from Colin");
+	System.out.println("Hello from Shihan");
+System.out.println("Hello from Alina");
+        //	d
+        //	e
+        //	f
+        //	g
+        //	h
+        System.out.println("Hello from Myrsini");
+        //	i
+        //	j
+        //	k
+        //	l
+        //	m
+        System.out.println("Hello from Mariia");
+        //	n
+        //	o
+        System.out.println("Hello from Oscar");
+        System.out.println("Hello from Philip");
+        System.out.println("Hello Paul"); 
+        //	q
+        //	r
+        //	s
+	System.out.println("Hello from Stiliyan");
+        //	t
+    System.out.println("Hello from Tatiana");
+    System.out.println("Hello from Tanim");
+        //	u
+        //	v
+        //	x
+        //	y
+        //	z
+    }
+}
