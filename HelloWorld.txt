@@ -26,13 +26,13 @@ System.out.println("Hello from Alina");
         //	i
         //	j
         //	k
-        //	l
+        System.out.println("Hello from Lilli Belle");
         //	m
         System.out.println("Hello from Mariia");
         //	n
         //	o
         System.out.println("Hello from Oscar");
-        //	p
+        System.out.println("Hello from Philip");
         System.out.println("Hello Paul"); 
         //	q
         //	r
